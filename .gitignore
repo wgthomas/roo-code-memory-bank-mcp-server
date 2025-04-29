@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Compiled TypeScript output
+dist/
+
+# Runtime memory bank data
+memory-bank/
+
+# OS generated files
+.DS_Store
+Thumbs.db
